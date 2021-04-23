@@ -1,0 +1,14 @@
+.intro-artigo {
+	background: url('../../img/artigos/ferramentas-para-gerir-e-analisar-seu-negocio-parte-2/intro-ferramentas-para-gerir-e-analisar-seu-negocio-parte-2.jpg') no-repeat 0 -465px;
+	background-size: cover;
+}
+
+@media only screen and (max-width: 767px) {  /* Smartphone */
+
+/* Intro */
+
+.intro-artigo {
+	height: 80px;
+	background: url('../../img/artigos/ferramentas-para-gerir-e-analisar-seu-negocio-parte-2/intro-ferramentas-para-gerir-e-analisar-seu-negocio-parte-2-mobile.jpg') no-repeat center;
+	background-size: cover;
+}

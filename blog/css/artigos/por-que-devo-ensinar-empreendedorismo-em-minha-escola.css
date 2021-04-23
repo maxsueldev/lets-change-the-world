@@ -1,0 +1,14 @@
+.intro-artigo {
+	background: url('../../img/artigos/por-que-devo-ensinar-empreendedorismo-em-minha-escola/intro-por-que-devo-ensinar-empreendedorismo-em-minha-escola.jpg') no-repeat center;
+	background-size: cover;
+}
+
+@media only screen and (max-width: 767px) {  /* Smartphone */
+
+/* Intro */
+
+.intro-artigo {
+	height: 80px;
+	background: url('../../img/artigos/por-que-devo-ensinar-empreendedorismo-em-minha-escola/intro-por-que-devo-ensinar-empreendedorismo-em-minha-escola-mobile.jpg') no-repeat center;
+	background-size: cover;
+}

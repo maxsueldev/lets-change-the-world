@@ -1,0 +1,14 @@
+.intro-artigo {
+	background: url('../../img/artigos/ingles-e-o-mundo-dos-negocios/intro-ingles-e-o-mundo-dos-negocios.jpg') no-repeat 0 -385px;
+	background-size: cover;
+}
+
+@media only screen and (max-width: 767px) {  /* Smartphone */
+
+/* Intro */
+
+.intro-artigo {
+	height: 80px;
+	background: url('../../img/artigos/ingles-e-o-mundo-dos-negocios/intro-ingles-e-o-mundo-dos-negocios-mobile.jpg') no-repeat 0 -68px;
+	background-size: cover;
+}

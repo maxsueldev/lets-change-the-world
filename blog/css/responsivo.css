@@ -1,0 +1,411 @@
+@media only screen and (min-width: 1110px) and (max-width: 1234px) {
+
+/* Intro */
+
+.frase-intro {
+  padding: 20px 15px;
+}
+
+}
+
+@media only screen and (min-width: 960px) and (max-width: 1160px) {
+
+.perfil-ipsum, .artigos-populares {
+  width: 220px;
+}
+
+/* .............................................................Artigo............................................................. */
+
+.conteudo img {
+  height: 280px;
+}
+
+}
+
+@media only screen and (min-width: 1000px) and (max-width: 1109px) {
+
+/* Intro */
+
+.frase-intro {
+  width: 35%;
+  padding: 20px 24px;
+}
+
+}
+
+@media only screen and (min-width: 960px) and (max-width: 999px) {
+
+/* Intro */
+
+.frase-intro {
+  width: 35%;
+  padding: 20px 10px;
+}
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 959px) {  /* Tablet */
+
+/* Geral */
+
+.recuo {
+  text-indent: 2em;
+}
+
+.modal {
+  top: 15%;
+}
+
+.modal-header {
+  padding: 8px 15px 0 15px;
+}
+
+.modal-content {
+  padding: 10px 3px 20px 3px;
+}
+
+.modal-content h2 {
+  font-size: 26px;
+}
+
+.modal-content form {
+  margin-top: 25px;
+}
+
+.modal-content .form button {
+  margin: 20px auto 0 auto;
+}
+
+/* Intro */
+
+.frase-intro {
+  width: 42%;
+  padding: 20px 40px;
+}
+
+.titulo-intro {
+  font-size: 42px;
+  line-height: 55px;
+}
+
+/* Lateral */
+
+.perfil-ipsum, .artigos-populares {
+  width: 180px;
+}
+
+.perfil-ipsum .nome:before {
+  width: 130px;
+}
+
+.perfil-ipsum .nome:after {
+  width: 130px;
+}
+
+.perfil-ipsum .sobre {
+  padding: 0 25px;
+}
+
+/* .............................................................Artigo............................................................. */
+
+.conteudo img {
+  height: 250px;
+}
+
+.conteudo img {
+  height: 250px;
+}
+
+.conteudo > ul > li > p {
+  text-indent: 4em;
+}
+
+.conteudo > ul > li > ul > li > p {
+  text-indent: 4em;
+}
+
+.conteudo > ul > li > ul > li ul li {
+  font-size: 16px; 
+  line-height: 26px;
+  margin-top: 3px;
+  margin-left: 7em;
+} 
+
+}
+
+@media only screen and (max-width: 767px) {  /* Smartphone */
+
+/* Geral */
+
+.recuo {
+  text-indent: 0;
+}
+
+.modal {
+  top: 8%;
+}
+
+.modal-header {
+  padding: 18px 15px 0 15px;
+}
+
+.modal-content {
+  padding: 0 3px 20px 3px;
+}
+
+.modal-content h2 {
+  font-size: 22px;
+}
+
+.modal-content form {
+  margin-top: 20px;
+}
+
+.modal-content .form button {
+  margin: 20px auto 0 auto;
+}
+
+.fb-comments {
+  margin-top: 400px;
+}
+
+/* Intro */
+
+.intro {
+  height: 170px;
+  background: url('../../img/sections/intro-mobile.png') no-repeat top;
+  background-size: cover;
+  margin-top: 50px;
+}
+
+.frase-intro {
+  width: 75%;
+  top: 12%;
+  padding: 16px 8px;
+}
+
+.titulo-intro {
+  font-size: 36px;
+  line-height: 48px;
+}
+
+/* Newslatter */
+
+.newslatter {
+  position: absolute;
+  bottom: 119px;
+}
+
+.newslatter .form {
+  text-align: center;
+}
+
+.newslatter .form p {
+  font-size: 13px;
+}
+
+.newslatter .form input {
+  width: 90%;
+  margin: 4px 0 9px 12px; 
+}
+
+/* Content */
+
+.content {
+  padding-top: 40px;
+  margin-bottom: 110px;
+}
+
+.content-pg {
+  padding-top: 90px !important;
+}
+
+.content .grid-12 {
+  float: none;
+}
+
+/* Lateral */
+
+.content-lateral {
+  padding-top: 10px;
+}
+
+.perfil-ipsum {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.perfil-ipsum .nome:before {
+  width: 175px;
+}
+
+.perfil-ipsum .nome:after {
+  width: 175px;
+}
+
+.perfil-ipsum .sobre {
+  padding: 0 25px;
+}
+
+.artigos-populares {
+  width: 90%;
+  margin: 25px auto 40px auto;
+}
+
+.top-artigos-populares h2 {
+  font-size: 18px;
+}
+
+.lista-artigos-populares li a {
+  font-size: 18px;
+}
+
+/* Artigo (index)*/
+
+h1.titulo-artigo {
+  font-size: 20px;
+  line-height: 28px;
+  margin-bottom: 6px;
+}
+
+.img-artigo {
+  text-align: center;
+}
+
+.img-artigo img {
+  float: none;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.artigo p {
+  font-size: 18px;
+  line-height:25px;
+  margin-bottom: 15px;
+}
+
+/* -------------------------------------------------------------------------------------------------------------------------------- */
+
+/* .............................................................Sobre............................................................. */
+
+/* -------------------------------------------------------------------------------------------------------------------------------- */
+
+.sobre h1.titulo {
+  font-size: 30px;
+  line-height: 34px;
+  margin-bottom: 30px;  
+}
+
+/* -------------------------------------------------------------------------------------------------------------------------------- */
+
+/* .............................................................Contato............................................................. */
+
+/* -------------------------------------------------------------------------------------------------------------------------------- */
+
+.contato {
+  max-width: 100%;
+  margin-right: 0;
+  padding-bottom: 20px;
+}
+
+.contato h1.titulo {
+  font-size: 30px;
+  line-height: 34px;
+  margin-bottom: 30px;
+}
+
+/* -------------------------------------------------------------------------------------------------------------------------------- */
+
+/* .............................................................Artigo............................................................. */
+
+/* -------------------------------------------------------------------------------------------------------------------------------- */
+
+.content-artigo {
+  padding-top: 30px;
+  margin-bottom: 100px;
+}
+
+.artigo-conteudo h1.titulo {
+  font-size: 30px;
+  line-height: 34px;
+  margin-bottom: 23px;
+}
+
+.artigo-conteudo ul.time {
+  font-size: 14px;
+  margin-bottom: 27px;
+}
+
+.artigo-conteudo ul.time:before {
+  margin: 5px auto;
+}
+
+.conteudo p {
+  font-size: 20px;
+  line-height: 30px;
+  margin-top: 20px;
+}
+
+.conteudo h2.subtitulo {
+  font-size: 22px;
+  line-height: 30px;
+  margin-top: 30px;
+}
+
+.conteudo img {
+  width: 100%;
+  height: 180px;
+}
+
+.conteudo .lista {
+  margin-left: 2em;
+}
+
+.conteudo p.citacao {
+  font-size: 15px;
+  line-height: 22px;
+  max-width: 75%;
+  margin: 30px auto;
+}
+
+.conteudo > ul > li > p {
+  text-indent: 2em;
+}
+.conteudo > ul > li ul > p {
+  margin-left: 2em;
+}
+
+.conteudo > ul > li > ul > li > p {
+  text-indent: 2em;
+}
+
+.conteudo > ul > li > ul > li ul li {
+  font-size: 16px; 
+  line-height: 26px;
+  margin-top: 3px;
+  margin-left: 3.5em;
+} 
+
+.curtir-page-fb {
+  width: 300px;
+}
+
+.sobre-autora {
+  padding: 40px 0;
+}
+
+.foto-autora img {
+  width: 75px;
+  height: 75px;
+}
+
+.sobre-autora .autora {
+  padding-top: 0;
+  padding-left: 90px;
+}
+
+.content-artigo .artigos-populares {
+  float: none;
+}
+
+}

@@ -1,0 +1,13 @@
+.intro-artigo {
+	background: url('../../img/sections/intro.png') no-repeat center;
+}
+
+@media only screen and (max-width: 767px) {  /* Smartphone */
+
+/* Intro */
+
+.intro-artigo {
+	height: 80px;
+	background: url('../../img/sections/intro-mobile.png') no-repeat center;
+	background-size: cover;
+}

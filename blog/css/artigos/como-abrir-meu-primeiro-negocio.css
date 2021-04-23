@@ -1,0 +1,13 @@
+.intro-artigo {
+	background: url('../../img/artigos/como-abrir-meu-primeiro-negocio/intro-como-abrir-meu-primeiro-negocio.jpg') no-repeat center;
+}
+
+@media only screen and (max-width: 767px) {  /* Smartphone */
+
+/* Intro */
+
+.intro-artigo {
+	height: 80px;
+	background: url('../../img/artigos/como-abrir-meu-primeiro-negocio/intro-como-abrir-meu-primeiro-negocio-mobile.jpg') no-repeat center;
+	background-size: cover;
+}
